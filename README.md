@@ -1,6 +1,6 @@
-# Titulo
+# Título
 
-Parágrafo normal com um testo normal, sendo exibido automaticamente enquanto *digita*.
+Parágrafo normal com um texto normal, sendo exibido automaticamente enquanto *digita*.
 - Teste
 - Teste
 - Teste
@@ -8,17 +8,17 @@ Parágrafo normal com um testo normal, sendo exibido automaticamente enquanto *d
 > Bloco de citação
 
 ```
-Bloco de codigo
+Bloco de código
 ```
 
 ## Negrito
 Para utilizar o **negrito** insira 2 * no começo e no final ou __dois__ _
 
-## Italico
-Para utilizar o ___italico___ insira 3 * no começo e no final ou ***dois*** .
+## Itálico
+Para utilizar o ___Itálico___ insira 3 * no começo e no final ou ***dois*** .
 
-## Italico + Negrito
-Para utilizar o __*italico + Negrito*__ insira 2 * e 1 _ no começo e no final ou **_dois_** * e um _ .
+## Itálico + Negrito
+Para utilizar o __*Itálico + Negrito*__ insira 2 * e 1 _ no começo e no final ou **_dois_** * e um _ .
 
 ## Riscar palavra
 ~~Palavras ficam~~ riscadas ao colocar 2 vezes ~ no começo e no final da palavra.
@@ -49,9 +49,9 @@ ________________________________________
 
 ### Lista 4
 - Item 1
-    - Sub item
-    * Sub item
-    + Sub item
+   - Sub item
+   * Sub item
+   + Sub item
 
 - Item 2
 
@@ -70,6 +70,19 @@ ________________________________________
 1. Item 3
 
 ### Lista 3
-1994\. Brasil  
-1998\. França  
-2002\. Brasil  
+1994\. Brasil 
+1998\. França 
+2002\. Brasil 
+
+## Links
+
+### Link 1
+[Clique aqui](https://github.com/LucasOliveiraCoelho)
+
+### Link 2
+[Acesse meu github](https://github.com/LucasOliveiraCoelho "Meu github")
+
+### Link 3
+[Meu github][github-url]
+
+[github-url]:https://github.com/LucasOliveiraCoelho
