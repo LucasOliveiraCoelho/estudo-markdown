@@ -88,8 +88,7 @@ ________________________________________
 [github-url]:https://github.com/LucasOliveiraCoelho
 
 
-[Google](http://google.com/?target=_blank)
-
+[Hello, world!](http://example.com/){target="_blank"}
 
 ## Imagens
 
