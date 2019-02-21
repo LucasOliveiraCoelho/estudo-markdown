@@ -70,9 +70,9 @@ ________________________________________
 1. Item 3
 
 ### Lista 3
-1994\. Brasil 
-1998\. França 
-2002\. Brasil 
+1994\. Brasil  
+1998\. França  
+2002\. Brasil  
 
 ## Links
 
@@ -88,6 +88,9 @@ ________________________________________
 [github-url]:https://github.com/LucasOliveiraCoelho
 
 
+[Google](http://google.com/?target=_blank)
+
+
 ## Imagens
 
 Desenvolvimento do front end de uma aplicação de bookmarks utilizando React.js
@@ -99,3 +102,39 @@ Tela de adicionar
 Tela de filtro
 
 [imagem-filtro]: imagens/search.png
+
+## Tabelas
+Exemplo de tabelas:
+
+Nome alinhada a esquerda, idade centralizada e profissão alinhada a direita.
+
+| Nome | Idade | Profissão | 
+| :---- | :---: | ---------: |
+| Carlos |  18  | Programador C# |
+| Lucas  |  20  | Desenvolvedor de jogos |
+| Ricardo |  32  | Programador PHP |
+
+## Códigos
+
+### Exemplo em linha
+Exemplo de código somente em uma `palavra.` sinalizando que essa palavra é código.
+#### Javascript código exemplo
+``const mensagem = `Meu nome é {nome}`; ``
+
+### Exemplo em bloco 1
+Bloco utilizando 3 crase.
+```
+const username = 'LucasCoelho'
+const password = '********'
+// achou que ia ter a senha né ? achou errado!
+
+login(username,password)
+```
+
+### Exemplo em bloco 2
+Bloco utilizando tabulações
+
+    const username = 'LucasCoelho'
+    const password = '********'
+    // achou que ia ter a senha né ? achou errado!
+    login(username,password)
