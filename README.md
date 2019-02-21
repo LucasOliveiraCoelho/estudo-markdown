@@ -1,4 +1,20 @@
-# Título
+# Estudo de markdown
+
+## Indice
+- [Título](https://github.com/LucasOliveiraCoelho/estudo-markdown#título)
+- [Negrito](https://github.com/LucasOliveiraCoelho/estudo-markdown#negrito)
+- [Itálico](https://github.com/LucasOliveiraCoelho/estudo-markdown#itálico)
+- [Itálico + Negrito](https://github.com/LucasOliveiraCoelho/estudo-markdown#itálico--negrito)
+- [Riscar palavra](https://github.com/LucasOliveiraCoelho/estudo-markdown#riscar-palavra)
+- [Criar linha horizontal](https://github.com/LucasOliveiraCoelho/estudo-markdown#criar-linha-horizontal)
+- [Listas não ordenadas](https://github.com/LucasOliveiraCoelho/estudo-markdown#listas-não-ordenadas)
+- [Listas ordenadas](https://github.com/LucasOliveiraCoelho/estudo-markdown#listas-ordenadas)
+- [Links](https://github.com/LucasOliveiraCoelho/estudo-markdown#links)
+- [Imagens](https://github.com/LucasOliveiraCoelho/estudo-markdown#imagens)
+- [Tabelas](https://github.com/LucasOliveiraCoelho/estudo-markdown#tabelas)
+- [Códigos](https://github.com/LucasOliveiraCoelho/estudo-markdown#códigos)
+
+## Título
 
 Parágrafo normal com um texto normal, sendo exibido automaticamente enquanto *digita*.
 - Teste
@@ -122,7 +138,7 @@ Exemplo de código somente em uma `palavra.` sinalizando que essa palavra é có
 
 ### Exemplo em bloco 1
 Bloco utilizando 3 crase.
-```
+```javascript
 const username = 'LucasCoelho'
 const password = '********'
 // achou que ia ter a senha né ? achou errado!
@@ -136,4 +152,5 @@ Bloco utilizando tabulações
     const username = 'LucasCoelho'
     const password = '********'
     // achou que ia ter a senha né ? achou errado!
+
     login(username,password)
