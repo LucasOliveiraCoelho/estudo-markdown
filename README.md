@@ -104,7 +104,7 @@ ________________________________________
 [github-url]:https://github.com/LucasOliveiraCoelho
 
 
-[Hello, world!](http://example.com/){target="_blank"}
+[Hello, world!](http://example.com/)
 
 ## Imagens
 
@@ -123,11 +123,11 @@ Exemplo de tabelas:
 
 Nome alinhada a esquerda, idade centralizada e profissão alinhada a direita.
 
-| Nome | Idade | Profissão | 
-| :---- | :---: | ---------: |
-| Carlos |  18  | Programador C# |
-| Lucas  |  20  | Desenvolvedor de jogos |
-| Ricardo |  32  | Programador PHP |
+| Nome      | Idade  |           Profissão            | 
+| :---      | :----: |           --------:            |
+| Carlos    | 18     |     Programador C#             |
+| Lucas     | 20     |     Desenvolvedor de jogos     |
+| Ricardo   | 32     |     Programador PHP            |
 
 ## Códigos
 
@@ -144,6 +144,15 @@ const password = '********'
 // achou que ia ter a senha né ? achou errado!
 
 login(username,password)
+```
+
+```c++
+#inlcude <stdio.h>
+
+int main(){
+    printf("Rodoooou!")
+    return 0;
+}
 ```
 
 ### Exemplo em bloco 2
